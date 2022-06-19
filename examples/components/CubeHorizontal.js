@@ -9,7 +9,7 @@ import {
   Text,
   TouchableWithoutFeedback
 } from "react-native";
-import { CubeNavigationHorizontal } from "react-native-3dcube-navigation";
+import { CubeNavigationHorizontal } from "react-native-3dcube-navigation-fullscreen";
 
 const { width, height } = Dimensions.get("window");
 
